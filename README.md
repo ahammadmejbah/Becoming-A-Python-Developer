@@ -15,6 +15,10 @@
 </p>
 
 
-**Last Updated:** 02/05/2025
-**Location (for context):** Dhaka, Dhaka Division, Bangladesh
-**Current Time (for reference):** Friday, May 2, 2025 at 5:24 PM +06
+<p align="center">
+  <a href="#"><img alt="Last Updated" src="https://img.shields.io/badge/🗓️%20Last%20Updated-02/05/2025-informational?style=for-the-badge"></a>
+  <a href="https://www.google.com/maps/search/?api=1&query=Dhaka%2C%20Dhaka%20Division%2C%20Bangladesh">
+    <img alt="Location" src="https://img.shields.io/badge/📍%20Location-Dhaka%2C%20Dhaka%20Division%2C%20Bangladesh-success?style=for-the-badge&logo=googlemaps">
+  </a>
+  <a href="#"><img alt="Current Time" src="https://img.shields.io/badge/🕒%20Current%20Time-Friday%2C%20May%2002%2C%202025%20at%205%3A24%20PM%20%2B06-blue?style=for-the-badge&logo=clockify"></a>
+</p>
