@@ -20,5 +20,4 @@
   <a href="https://www.google.com/maps/search/?api=1&query=Dhaka%2C%20Dhaka%20Division%2C%20Bangladesh">
     <img alt="Location" src="https://img.shields.io/badge/📍%20Location-Dhaka%2C%20Dhaka%20Division%2C%20Bangladesh-success?style=for-the-badge&logo=googlemaps">
   </a>
-  <a href="#"><img alt="Current Time" src="https://img.shields.io/badge/🕒%20Current%20Time-Friday%2C%20May%2002%2C%202025%20at%205%3A24%20PM%20%2B06-blue?style=for-the-badge&logo=clockify"></a>
 </p>
